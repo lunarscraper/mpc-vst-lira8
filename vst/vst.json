@@ -1,0 +1,10 @@
+{
+  "name": "LIRA 8",
+  "vendor": "lunarscraper",
+  "uid": "Lir8",
+  "version": 1000,
+  "so": "lira8.so",
+  "module": "module.json",
+  "layout": "layout.conf",
+  "_comment": "Instrument: drone synthesizer, a native rebuild of Mike Moreno's Pure Data patch LIRA-8 (lira_core.h). vst.json/module.json only feed mpc-vst-plugins' tools/gen_vst.py for params.h + the skin. The plugin is lira_vst.cpp, built by this port's own build.sh."
+}
